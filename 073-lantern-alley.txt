@@ -1,0 +1,14 @@
+TITLE
+Lamplighter’s Round
+
+PROMPT
+Design a narrow paper street after dusk against #472b3b. Hang three large ribbed lanterns over layered crooked shopfronts. In warm #ffc483 light, give each house a distinct expression from its windows and roofline. Let a visitor tap a lantern to light it; a corresponding row of windows wakes below it. Use a compact handbill title and a quiet progress count. Avoid motion beyond a slow brightening.
+
+DESCRIPTION
+On Marrow Lane a little light passed from a lantern brings the houses to life.
+
+VISUAL TECHNIQUES
+Pleated lantern bodies, luminous windows, stepped paper facades, responsive light states.
+
+INTERACTION MODEL
+Toggle each lantern to wake or quiet its shopfront.

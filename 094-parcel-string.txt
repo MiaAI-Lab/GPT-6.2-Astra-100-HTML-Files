@@ -1,0 +1,14 @@
+TITLE
+Books by Post
+
+PROMPT
+Place a kraft #caa484 parcel diagonally on a dark #4e3932 sorting table. Its folds, torn ivory address label, postage stamp and string should be inked details, not icons. Teach a three-part binding sequence by drawing the long wrap, cross wrap and final bow onto the parcel in turn. Display the current operation in an ivory mailing slip below; reset the parcel after the bow.
+
+DESCRIPTION
+A bookbinder's small ritual becomes three tactile strokes of twine on a paper parcel.
+
+VISUAL TECHNIQUES
+Rotated SVG package, folded flap geometry, fine string shadows, animated path length.
+
+INTERACTION MODEL
+Advance through three binding steps, then unwrap and repeat.

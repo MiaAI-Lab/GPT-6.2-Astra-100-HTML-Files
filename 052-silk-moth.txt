@@ -1,0 +1,14 @@
+TITLE
+Into the Wick
+
+PROMPT
+Stage a solitary silk moth in olive midnight #242a20 with parchment wings #dcdaab and a single amber lamp. Use fine italic Georgia for a naturalist’s title tucked in the corner. Build a symmetrical scalloped insect with eyespots, veins, hairy antennae and abdomen. The light should move to a touched position and the moth should glide after it as if drawn by thread. Leave most of the field empty. Provide a button to move the lamp between perches.
+
+DESCRIPTION
+An imaginary specimen drifts through a pool of lamplight in an otherwise silent room.
+
+VISUAL TECHNIQUES
+Mirrored vector wings, engraved veins, radial illumination, eased translation.
+
+INTERACTION MODEL
+Tap the room or move the lamp with the perch button. The moth follows.

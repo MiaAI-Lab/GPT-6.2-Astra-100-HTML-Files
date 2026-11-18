@@ -1,0 +1,14 @@
+TITLE
+Combing the Fen
+
+PROMPT
+Create an edge-to-edge print of a marsh in late afternoon. Golden straw #e4d996 and olive #596938 dominate. Sweep hundreds of ink-thin drooping reed stalks across the lower field, with heavy cattail heads and tiny leaves. Touch or brush through the plants to push a bending wave through them. Put the title vertically down one edge like a printer's signature.
+
+DESCRIPTION
+An animated landscape responds to the visitor like a field brushed by a passing hand.
+
+VISUAL TECHNIQUES
+Depth-ranked canvas curves, tapered leaf strokes, local displacement field.
+
+INTERACTION MODEL
+Move or touch the field to bend reeds. Arrow keys move the breeze.

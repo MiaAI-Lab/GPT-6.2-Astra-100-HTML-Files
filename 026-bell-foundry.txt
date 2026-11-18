@@ -1,0 +1,14 @@
+TITLE
+The Widow Bell
+
+PROMPT
+Hang an enormous bronze bell in a charcoal #342d26 chamber. Describe its ribs with tight nested bronze #e7b969 contours, like a copperplate cross-section. Set the name in a solemn Georgia face below a narrow foundry inscription. A single deliberate strike should ring in several slowly dying partials and rock the suspended casting. Make the strike control explicitly audible and leave the chamber silent until used. Write the inventory as an imaginary foundry catalogue.
+
+DESCRIPTION
+A suspended bell dominates a dark archive plate. The viewer can hear the imaginary casting and see the body swing back into balance.
+
+VISUAL TECHNIQUES
+Engraved SVG curves, serif inscription, pivoted swing, additive audio synthesis.
+
+INTERACTION MODEL
+Strike the labeled sound key to play one decaying chime. Reduced motion retains the stationary engraving.

@@ -1,0 +1,14 @@
+TITLE
+Bench Four
+
+PROMPT
+Fill an ochre #dbc198 survey sheet with a sharply angled terraced quarry in charcoal brown #514740. Draw dozens of broken stratigraphic lines and give each plateau a distinct stone face. A depth control should peel benches off the top and expose a named seam. Contrast monumental sans numerals with compact survey notes. The mood is dry and sunstruck.
+
+DESCRIPTION
+A quarry survey lets the reader excavate an entire hillside in four passes.
+
+VISUAL TECHNIQUES
+Layered polygonal SVG, seeded-looking fractured lines, coordinate ticks.
+
+INTERACTION MODEL
+Move the bench selector to remove successive levels and identify the exposed rock.

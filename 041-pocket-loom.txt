@@ -1,0 +1,14 @@
+TITLE
+The Pocket Loom
+
+PROMPT
+Lay a half-woven striped band over a mass of upright warp strings on #ead1bb linen. Alternate berry #694643, brick, flax and gold in a fine twill. Show the wooden loom rails and a single pointed shuttle poised at the loose edge. Each throw inserts another patterned band and reverses shuttle direction. Use a woven-goods maker’s small serif signature and a practical pick count. Let visitors take the finished sample off and start over.
+
+DESCRIPTION
+A tiny handloom builds a patterned band one shuttle pass at a time.
+
+VISUAL TECHNIQUES
+Canvas warp and weft overlaps, procedural twill, wooden shuttle, printed selvedge.
+
+INTERACTION MODEL
+Throw the shuttle to advance the weave. Lift the completed swatch to reset the loom.

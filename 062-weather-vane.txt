@@ -1,0 +1,14 @@
+TITLE
+Weathercock at Gannet Hill
+
+PROMPT
+Silhouette a filigree iron rooster over a pale #cadaef sky. Stage it atop a steep shingled roof with navy #3a5671 details. Number four fictional gusts on an oblong forecast strip. Choosing one should swing or reverse the bird, and change a poetic wind observation. Set the place-name in a broad, blue serif. Keep the feeling airy and rural.
+
+DESCRIPTION
+The forecast at Gannet Hill arrives as four different winds and a rooster of hammered iron.
+
+VISUAL TECHNIQUES
+Custom ironwork silhouette, patterned roof, directional swing.
+
+INTERACTION MODEL
+Select a wind to turn the vane and read the corresponding observation.

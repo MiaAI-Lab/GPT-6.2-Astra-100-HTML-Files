@@ -1,0 +1,14 @@
+TITLE
+The Single Pear Sale
+
+PROMPT
+Invent a pompous auction house selling just one pear per lot. Use lemon paper #f1eba8 with moss ink #5a562b. Typeset a centered formal auction catalogue in Times with double rules. Interrupt it with a huge tilted, stippled pear, a numbered lot and an implausible provenance. Visitors bid up a fruit in francs until the hammer falls and the next lot rolls in. Use an emphatic red SOLD stamp at the close.
+
+DESCRIPTION
+A solemn auctioneer offers fruit with distinguished imaginary pedigrees.
+
+VISUAL TECHNIQUES
+Stippled vector specimen, slanted leaves, engraved catalogue rules, sale stamp.
+
+INTERACTION MODEL
+Bid in five-franc increments. After three bids the fruit sells and the visitor can open another lot.

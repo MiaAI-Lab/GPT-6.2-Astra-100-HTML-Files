@@ -1,0 +1,14 @@
+TITLE
+Cue Thirty-Two
+
+PROMPT
+Seat the audience in a miniature theater with gold #efddc3 proscenium moldings and a dark #39405a cyclorama. Layer spare winter birches and painted hill flats behind the apron. A stage-manager's cue button releases square paper snow from the flies. Flakes should wobble as they fall, filling the depth of the scene without covering the control. Use precise prompt-book copy and small-cap signage.
+
+DESCRIPTION
+A winter set waits in silence until the stage manager drops paper snow across the painted landscape.
+
+VISUAL TECHNIQUES
+Nested proscenium borders, canvas cutout scenery and birch marks, tumbling finite snow particles.
+
+INTERACTION MODEL
+Call the snow cue to start a short fall. Calling again restarts it. Reduced motion gives a settled snowy tableau.

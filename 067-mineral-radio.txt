@@ -1,0 +1,14 @@
+TITLE
+Galena Receiver
+
+PROMPT
+Build an imagined crystal radio receiver face in slate #3c3542, copper #e2ba8d and faded ivory. Lay a semicircular frequency scale with engraved tick marks over a long thin copper pointer. Below it set a tuning wheel represented by a range input and a distinct audio power control. Three invented low-power stations emerge as the listener tunes. Synthesize a gentle signal whose gain depends on closeness to a station. Use lettering like a 1930s parts catalogue.
+
+DESCRIPTION
+A fictitious mineral receiver catches three quiet transmissions on a numbered bench scale.
+
+VISUAL TECHNIQUES
+Engraved vector scale, rotating pointer, tuned oscillator and gain control.
+
+INTERACTION MODEL
+Adjust the dial and enable listening to hear a station grow stronger near its center.

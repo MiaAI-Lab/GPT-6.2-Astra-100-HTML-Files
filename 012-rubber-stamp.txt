@@ -1,0 +1,14 @@
+TITLE
+Office of Unusual Parcels
+
+PROMPT
+Build a cargo inspection docket on kraft #f0dcc2 paper with crimson #a53741 ink. Present three absurd imports in large slabby type, including a jar of distant thunder. The user admits a parcel by stamping anywhere on the docket; a ragged double-ring impression lands askew at their chosen position. Another consignment can be drawn up from the manifest. Use stacked bureaucratic headings and a ruled freight form.
+
+DESCRIPTION
+A fictional border office entrusts the viewer with its official seal.
+
+VISUAL TECHNIQUES
+Layered stamp impressions, paper rules, oversized docket typography.
+
+INTERACTION MODEL
+Tap the docket to stamp it or activate it with the keyboard. Advance through the manifest with the next button.

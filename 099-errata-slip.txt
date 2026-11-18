@@ -1,0 +1,14 @@
+TITLE
+The Errata Room
+
+PROMPT
+Set a lexicographer's correction sheet almost entirely in type on pale #e9e1cc. A giant serif headword, numbered folio, phonetic aside and literary definition should resemble an old dictionary leaf. A red #99453e handwritten proof mark corrects a single letter and changes the whole sense. Offer three distinct misprints, each with an unexpected but plausible definition before and after correction. Keep the correction action at the word itself.
+
+DESCRIPTION
+Three entries in an imaginary dictionary turn on the smallest possible editorial intervention.
+
+VISUAL TECHNIQUES
+Typographic hierarchy, contrasted italic gloss, inline proof mark, ruled folio.
+
+INTERACTION MODEL
+Activate the marked character to correct or restore the word. Turn the leaf for another entry.

@@ -1,0 +1,14 @@
+TITLE
+Supper Under Seal
+
+PROMPT
+Set a confidential supper menu as a large cream #e3d3ba restaurant broadside with severe #322f2d censor bars across the dish names. Use blackletter-like Georgia italics for the masthead and a red diagonal release stamp. Keep course headings tiny and aligned on a narrow left rail. Activating each bar rolls it off its dish with a sharp peeling motion. Write four courses with precise and slightly clandestine flavors.
+
+DESCRIPTION
+A sealed banquet record gives up its menu one course at a time.
+
+VISUAL TECHNIQUES
+Oversized serif menu, irregular ink bars, paper grain, stamped authorization.
+
+INTERACTION MODEL
+Activate a black bar to reveal its dish or reseal it.

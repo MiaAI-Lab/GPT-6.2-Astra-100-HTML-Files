@@ -1,0 +1,14 @@
+TITLE
+Sleeper to North Haven
+
+PROMPT
+Build the window of a night train with a thick rounded metal frame, a layered green #a1e7cb aurora over indigo #1a2839 hills, and a partly shut Venetian blind. Use the quiet compact lettering of a railway berth. The tilt lever rotates the slats until the striped light becomes a whole horizon. Aurora curtains should move almost imperceptibly and remain still for reduced motion.
+
+DESCRIPTION
+A sleeper passenger gradually opens the blind onto a polar sky.
+
+VISUAL TECHNIQUES
+Perspective CSS slats, layered atmospheric gradients, clipped ridge silhouettes, inset frame.
+
+INTERACTION MODEL
+Move the tilt lever with touch or keyboard to reveal the full night landscape.

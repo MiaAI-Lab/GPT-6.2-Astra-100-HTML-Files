@@ -1,0 +1,14 @@
+TITLE
+Wind Post
+
+PROMPT
+Design an aerogramme from a maple tree. Use #e9dfb6 stock, #785c39 botanical ink and narrow double borders. Scatter large translucent veined samaras across a stamp-like field, and let opening the packet release them into a slow tumbling descent. Give the packet a hand-set serif name, a dispatch address and concise instructions. The reduced-motion version should show the seeds at rest in their destination.
+
+DESCRIPTION
+Winged maple seeds become the letters of a wind-powered postal service.
+
+VISUAL TECHNIQUES
+Parametric canvas wings, vein strokes, staggered spinning descent, printed packet frame.
+
+INTERACTION MODEL
+Dispatch the seeds to watch them drift down. Press again to send another flight.

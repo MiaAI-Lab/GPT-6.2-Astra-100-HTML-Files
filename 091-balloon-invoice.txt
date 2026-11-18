@@ -1,0 +1,14 @@
+TITLE
+Freight by Air
+
+PROMPT
+Make an eccentric freight manifest in sky #c8e1e8 and plum #594757. Put a bunch of copper, pink and cream lifting balloons over a tiny strapped crate, with strings converging at its eyelets. A manifest column lists the crate's ballast in books. Add or remove volumes to move the airborne rig up or down and change the dispatch status. Use tall serif numerals for the count and typewriter inventory labels.
+
+DESCRIPTION
+A fictional air-freight office weighs a consignment by watching its balloon rig rise.
+
+VISUAL TECHNIQUES
+Layered balloon ellipses, converging tether geometry, line-engraved crate, eased cargo displacement.
+
+INTERACTION MODEL
+Add or unload books to change altitude. The ticket indicates whether the crate is airborne or grounded.

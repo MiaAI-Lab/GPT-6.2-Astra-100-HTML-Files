@@ -1,0 +1,14 @@
+TITLE
+A Grammar of Drizzle
+
+PROMPT
+Set a poem on lavender-gray #dedced with plum #423557 punctuation falling at different tempos, like rain in the margins of a book. Keep the poem horizontally centered but let the title sit low. On pausing the rain, arrange marks into three orderly lines directly above the poem. Typography should feel spacious and literary.
+
+DESCRIPTION
+Punctuation collects above a brief poem as weather becomes syntax.
+
+VISUAL TECHNIQUES
+Independent CSS keyframes, coordinate reassignment, serif punctuation field.
+
+INTERACTION MODEL
+Pause or resume the shower with the poem's weather switch.

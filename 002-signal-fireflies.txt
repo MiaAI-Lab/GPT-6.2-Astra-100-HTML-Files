@@ -1,0 +1,14 @@
+TITLE
+Answering Meadow
+
+PROMPT
+Make a nocturnal field recorder with the huge pale yellow #dce972 word “Listen.” near the upper left against dark leaf green #16281e. Render grass as hundreds of tapered pen strokes at different depths. Populate the dusk with slowly blinking lantern insects. Let the visitor flash anywhere, setting off an expanding chorus of responses timed by distance. Use quiet monospace field notes and identify the imagined site as Fen Station.
+
+DESCRIPTION
+The observer communicates with a summer field through light. A tapped signal passes visibly across the meadow.
+
+VISUAL TECHNIQUES
+Procedural grass, additive halos, depth silhouettes, distance-delayed pulses.
+
+INTERACTION MODEL
+Touch the field or press Space to flash the lantern.

@@ -1,0 +1,14 @@
+TITLE
+Fault in the Bath
+
+PROMPT
+Present a square of nine lavender #e6cbe4 glazed tiles bearing cobalt #4b3985 circular bands, white grout and speckled enamel. One tile is mislaid. Rotating it completes the continuous rings. Set a narrow, antique-looking conservation label below the mosaic, and let the label report the condition. The tiles should turn with deliberate weight.
+
+DESCRIPTION
+A bathhouse restoration in miniature revolves around a single interrupted pattern.
+
+VISUAL TECHNIQUES
+Concentric CSS glaze bands cropped at tile boundaries, CSS rotation and bevels.
+
+INTERACTION MODEL
+Turn tiles by quarter turns until all nine are in register.

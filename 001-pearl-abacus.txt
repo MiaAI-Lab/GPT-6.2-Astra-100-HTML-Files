@@ -1,0 +1,14 @@
+TITLE
+The Pearl Reckoner
+
+PROMPT
+Build a shell merchant's counting board in warm ivory #ede2ce and mulberry #824e58. Pair an italic Georgia title with spaced inventory marks. Hang five horizontal wires across a beveled wood case. Sculpt each pearl with an off-center highlight and irregular silhouette. Touch a wire to gather pearls on its left, easing them into place. A tally below records the exact sum. Treat the object as a working instrument from the fictional Mere harbor.
+
+DESCRIPTION
+An accountant's tool becomes an intimate still life, with luminous shell counters and a hand-fitted wooden case.
+
+VISUAL TECHNIQUES
+Inset shadows, layered highlights, woodgrain rules, staggered CSS movement.
+
+INTERACTION MODEL
+Tap a position on each wire to set its count, or use arrow keys on the focused wire.

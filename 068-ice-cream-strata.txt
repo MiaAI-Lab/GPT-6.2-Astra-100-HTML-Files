@@ -1,0 +1,14 @@
+TITLE
+The Edible Outcrop
+
+PROMPT
+Present a full cross-section of a spumoni slab as a geological survey in peach #f0c8b4, cocoa #6e4843, pistachio and raspberry. Let the dessert fill a wide rectangular freezer window. Draw sweeping irregular layers, little inclusions and folded seams. Touching the slab takes a circular scoop that exposes the pale freezer wall. Put a numbered scoop count beside the refill control. Mix elegant ice-cream counter type with surveyor’s monospace.
+
+DESCRIPTION
+A fictional gelateria cuts a geological section through a tub of four folded flavors.
+
+VISUAL TECHNIQUES
+Procedural curved strata, seeded inclusions, circular subtractive scoops.
+
+INTERACTION MODEL
+Tap the slab or use the scoop button to take a serving. Refill restores the outcrop.

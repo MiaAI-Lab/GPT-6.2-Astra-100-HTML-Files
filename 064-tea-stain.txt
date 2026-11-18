@@ -1,0 +1,14 @@
+TITLE
+Aunt Nella’s Saucer
+
+PROMPT
+Lay a porcelain saucer on #e9d4b1 tea paper with a circular tide mark in #7c492c. Design the ring as many translucent irregular strokes, leaf fragments settled along it. Set the fortune inside the cup margin in small italic serif type. Turn the cup a third at a time and let the leaves form a new reading named for a mundane household object. A warm, gentle parlor game, with a restrained invitation under the saucer.
+
+DESCRIPTION
+Aunt Nella reads small domestic futures in the leaves of a half-empty cup.
+
+VISUAL TECHNIQUES
+Uneven stain contours, leaf fragments, concentric china rim, rotating vector paths.
+
+INTERACTION MODEL
+Turn the saucer to reveal the next reading.

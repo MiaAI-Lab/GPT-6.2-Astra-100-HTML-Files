@@ -1,0 +1,14 @@
+TITLE
+The Countess’s Collar
+
+PROMPT
+Mount an opera wardrobe fitting on pale blush #f4dbe5. Draw a silhouetted plum #854365 dressmaker's bust in profile with an opulent folded ivory collar radiating around its neck. A pleat-count slider should rebuild the ruff from a sparse fan into dense lace. Set the wardrobe title in airy italic Georgia, a scene label and a couturier's penciled instruction beside it. Keep the fitting static between adjustments.
+
+DESCRIPTION
+A costume fitting allows the Countess’s ceremonial collar to be pleated before the curtain rises.
+
+VISUAL TECHNIQUES
+Vector profile, repeated rotated pleats, scalloped lace trim, wardrobe inscription.
+
+INTERACTION MODEL
+Adjust pleat density to alter the fullness of the ruff.

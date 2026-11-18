@@ -1,0 +1,14 @@
+TITLE
+Duplicate in Blue
+
+PROMPT
+Set an office duplicating pad on a periwinkle #cbd1eb desktop. Show two separately ruled leaves side by side with proud printed serials and carbon-blue #36477a handwriting. Drawing on the original appears in a lighter slightly displaced trace on the duplicate. Seed both with a handwritten looping flourish. Provide clear and specimen keys and stack leaves on a narrow screen. Use condensed system sans for the forms and typewriter copy for instructions. No ambient motion.
+
+DESCRIPTION
+Two forms share one pen through a simulated carbon interleaf.
+
+VISUAL TECHNIQUES
+Paired canvas strokes, carbon offset, ruled paper, numbered stationery.
+
+INTERACTION MODEL
+Draw on the first form, insert a specimen or clear both sheets. Touch drawing uses pointer capture.

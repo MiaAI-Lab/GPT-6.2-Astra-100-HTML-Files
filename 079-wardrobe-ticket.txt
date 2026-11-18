@@ -1,0 +1,14 @@
+TITLE
+Unclaimed at the Lyric
+
+PROMPT
+Give an abandoned theatre cloakroom the intimacy of a short story. Center an oversized perforated ticket with olive #49503d ink on faded #c3c9ae card. Set LYRIC in stately serif caps and an enormous claim number beside a vertically torn stub. Redeeming a ticket should tear away the stub and reveal a specific keepsake discovered in its coat. Allow three tickets to be examined in sequence.
+
+DESCRIPTION
+Three coats from the Lyric's final performance tell three miniature stories through the things left in their pockets.
+
+VISUAL TECHNIQUES
+Punched paper holes, perforation, letterpress borders, sliding claim stub.
+
+INTERACTION MODEL
+Redeem the ticket and read the pocket inventory. Draw another claim to advance the narrative.

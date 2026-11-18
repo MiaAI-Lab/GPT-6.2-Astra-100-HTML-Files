@@ -1,0 +1,14 @@
+TITLE
+A Minute of Ash
+
+PROMPT
+Make a live clock from sixty irregular pieces of charcoal, arranged as six low rows on a #312421 hearth. Pieces already reached by the local minute glow #ffc087 at their fractured centers; those ahead remain cool grey. Display the actual local time in slender, very large serif numerals above the coals, and a legend below. At the turn of each minute let the fire bed empty and begin again. No controls or ornamental motion.
+
+DESCRIPTION
+Sixty coals make the passing minute tangible, one new ember at a time.
+
+VISUAL TECHNIQUES
+Deterministically faceted charcoal polygons, inner glow gradients, clock-synchronized rendering.
+
+INTERACTION MODEL
+Watch the local time. Each second ignites a coal, with a new bed at the minute boundary.

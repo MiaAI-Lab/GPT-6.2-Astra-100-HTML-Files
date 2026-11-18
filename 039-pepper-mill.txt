@@ -1,0 +1,14 @@
+TITLE
+Three Turns of Pepper
+
+PROMPT
+Illustrate a tall lacquered pepper grinder in dark umber #3e2823 on a warm #f1b49a kitchen wall. Build its silhouette from rounded turned-wood sections with longitudinal shading and a brass screw. Give the counter a plate of accumulating pepper specks. A grinding key twists the head, drops grains and records progress toward a three-turn house blend, then allows a clean plate. Use relaxed serif lettering and a narrow restaurant order slip.
+
+DESCRIPTION
+An oversized wooden mill seasons a small plate across three measured turns.
+
+VISUAL TECHNIQUES
+CSS lathe silhouette, elliptical dish, seeded pepper scatter, timed head turn.
+
+INTERACTION MODEL
+Grind up to three turns, then clear the plate and begin again.

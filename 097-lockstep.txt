@@ -1,0 +1,14 @@
+TITLE
+The Keyless Works
+
+PROMPT
+Lay out a dismantled clock movement on aged brass #cec7a6. Two overlapping engraved wheels with cutaway spokes and radial teeth carry red witness marks. The player advances the right wheel one tooth at a time until its mark points directly at the other. Include small pivot screws, a numerical alignment reading and the clockmaker's one-line instruction in brown #554a34. Correct alignment should visibly seat the locking pin.
+
+DESCRIPTION
+A clockmaker's alignment exercise turns a pair of brass gears into a compact puzzle.
+
+VISUAL TECHNIQUES
+Parametric gear outlines, circular spoke apertures, animated angular stepping and locking pin.
+
+INTERACTION MODEL
+Advance the right wheel until the witness lines meet. Reset the alignment to practice again.

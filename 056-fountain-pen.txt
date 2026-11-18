@@ -1,0 +1,14 @@
+TITLE
+The Hidden Colours of Ink
+
+PROMPT
+A pigment test bench on warm #e6dbc9 paper. Put a narrow column of typographic instructions beside a tall chromatography strip. Fill the strip with thousands of tiny translucent ink grains in separated teal, violet #4d4266 and ochre bands. A water-front slider lifts the bands by different distances, revealing several colours inside one dark starting blot. Use small calibrated numbers and an elegant serif title.
+
+DESCRIPTION
+A fictional ink called Widow Violet separates into three visible constituents as water rises.
+
+VISUAL TECHNIQUES
+Seeded pigment grain, absorbent paper shadow, graduated strip, variable capillary bands.
+
+INTERACTION MODEL
+Slide the water front to separate or recombine the ink.

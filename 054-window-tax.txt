@@ -1,0 +1,14 @@
+TITLE
+Rooms Behind Brick
+
+PROMPT
+Construct an entire symmetrical Georgian terrace elevation from brick red #d9a68a, mortar cream and soot #613c35. A chimney ridge and cornice cap rows of sash windows. Three bricked-up windows act as oral-history archives. Tapping one pulls away its masonry and reveals what an imaginary resident remembers. Use compact newspaper typography for the address and a broad cream transcript below the facade. Keep transitions short and architectural.
+
+DESCRIPTION
+A fictional house at Bracken Quay keeps testimony in windows that have been filled with brick.
+
+VISUAL TECHNIQUES
+Repeating masonry, inset sash shadows, architectural cornice, removable brick infill.
+
+INTERACTION MODEL
+Choose a sealed window to open it and read the resident’s recollection.

@@ -1,0 +1,14 @@
+TITLE
+East of the Dunes
+
+PROMPT
+Design a kite maker's sky-wide test record with a red #9b382d swallowtail high over a pale turquoise #a8e3e2 beach. Draw ruled wind traces and a looping tail made of many tiny bows. Print a small monospace field entry low on the horizon, with a large sans number identifying the flight. Adjust the bridle on a ruled slider. As its angle changes, the paper kite should bank and the bows should follow its streaming tail. Keep the reduced-motion sky still between adjustments.
+
+DESCRIPTION
+A printed coastal field record lets visitors tune the pitch of a kite under steady wind.
+
+VISUAL TECHNIQUES
+HiDPI canvas, articulated ribbon marks, ruled field typography.
+
+INTERACTION MODEL
+Move the bridle slider with touch, pointer or keys to alter the kite pitch and line.

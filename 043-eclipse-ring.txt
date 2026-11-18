@@ -1,0 +1,14 @@
+TITLE
+The Vanishing Disc
+
+PROMPT
+Set a hot peach #ffb875 sun in a nearly black plum #261c27 sky. Use tangles of radial rays and several soft rings to build the corona, then lay an opaque moon in front. A continuous alignment control moves the silhouette into totality. At center let fine long streamers emerge and change the observing log to totality. Keep the heading small and observatory-like so the luminous disc dominates. Do not flash the screen.
+
+DESCRIPTION
+A handheld occultation model reveals a solar corona at exact alignment.
+
+VISUAL TECHNIQUES
+Radial CSS corona, conic rays, moving occluder, live separation readout.
+
+INTERACTION MODEL
+Use the slider to align the two bodies and reveal the outer corona.

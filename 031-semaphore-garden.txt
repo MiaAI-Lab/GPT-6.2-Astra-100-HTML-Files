@@ -1,0 +1,14 @@
+TITLE
+Arms of the Alphabet
+
+PROMPT
+Print a naval alphabet teaching sheet on sailcloth #eddfaf. Plant a stout dark figure in the middle, with two red #ad3137 and yellow diagonal signal flags on jointed arms. Underfoot arrange the alphabet as narrow squared type keys. Selecting a letter swings both arms along the shortest available lesson transition while an immense italic letter identifies the pose. Use real semaphore orientations as viewed by a receiver, with an uncluttered, practical voice.
+
+DESCRIPTION
+An illustrated signaler demonstrates flag positions for letters selected in the alphabet below.
+
+VISUAL TECHNIQUES
+SVG articulated flag arms, triangular color blocking, engraved sailor, oversized letterform.
+
+INTERACTION MODEL
+Select a letter key or type A–Z to change both flags and the specimen letter.

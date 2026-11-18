@@ -1,0 +1,14 @@
+TITLE
+Mirror Mile
+
+PROMPT
+Create a silent panoramic salt flat with powder blue #b5dce6 sky and mauve #9b6d80 ranges, reflected exactly in shallow water. Build several jagged mountain silhouettes that slide at different speeds. A handful of horizontal scratches interrupt the reflection. Drag the horizon to traverse the basin. Put a small travel inscription in the far upper left; reserve the rest for distance.
+
+DESCRIPTION
+A continuous salt-basin panorama makes the boundary between water and sky difficult to locate.
+
+VISUAL TECHNIQUES
+Procedural ridgelines, depth-dependent translation, reflected geometry and ripple scratches.
+
+INTERACTION MODEL
+Drag sideways or press the arrow keys to cross the basin.

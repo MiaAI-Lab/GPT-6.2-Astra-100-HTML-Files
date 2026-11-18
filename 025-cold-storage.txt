@@ -1,0 +1,14 @@
+TITLE
+Drawer of Winter
+
+PROMPT
+Create a cold archive card in #cfddeb and #385075. One enormous sixfold crystal sits on a faint calibration grid, branching into delicate spurs. Present three fictional samples, each with a separate structure, collection locality and descriptive label. Selecting a specimen assembles a new silhouette. Use tabbed accession numbers and crisp archival lettering.
+
+DESCRIPTION
+A small archive houses three imagined winter crystals with individual branching habits.
+
+VISUAL TECHNIQUES
+Sixfold SVG symmetry, branched strokes, selective scale and radial assembly animation.
+
+INTERACTION MODEL
+Select an accession tab to exchange the specimen and its field note.

@@ -1,0 +1,14 @@
+TITLE
+Point House
+
+PROMPT
+Design an acid-paper #e7edcf typographer's lift with #222e2b ink. Place a tall open shaft of enormous lowercase g specimens alongside four square floor buttons. Move the entire car through the shaft with overshooting elevator easing. Each floor demonstrates a different type voice and announces its name. Use a monumental numeric floor indicator and precise machine labels.
+
+DESCRIPTION
+Four storeys of a fictional type foundry house four different lowercase residents.
+
+VISUAL TECHNIQUES
+Masked vertical specimen strip, display-size glyphs, inset control panel.
+
+INTERACTION MODEL
+Choose a floor to ride to its specimen.

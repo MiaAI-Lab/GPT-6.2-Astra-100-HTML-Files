@@ -1,0 +1,14 @@
+TITLE
+Orchard Roll Call
+
+PROMPT
+Inventory a fictional orchard from above. On pear-skin #e0e5be arrange rows of clustered crowns in leaf green #4a6340, yellow and gray-green. Distinguish the ages through crown size and shape. Set a tall acreage number and a narrow ledger beside the aerial plot. Three age-band switches should light up the chosen trees, fade the rest, and count the standing trees in that band. Use an agronomist's matter-of-fact copy and plan lettering.
+
+DESCRIPTION
+An orchard census links a visual survey to the calculated count in each age band.
+
+VISUAL TECHNIQUES
+Canvas crown rosettes, staggered planting rows, plot boundaries, dynamic ledger.
+
+INTERACTION MODEL
+Select all trees or an age band to highlight its plantings and read the count.

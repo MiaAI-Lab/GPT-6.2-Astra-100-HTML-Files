@@ -1,0 +1,14 @@
+TITLE
+Spyhole at Cone Nine
+
+PROMPT
+Use refractory brick #502721 around a horizontal observation port. Inside the port glow three distinct clay silhouettes against #ffbc6c kiln heat. Build the thick sliding iron shutter from dark steel with rivets, handle and a stenciled caution. A control slides the panel aside to reveal the pots together at peak heat. Keep the ironwork monumental, the firing note concise and the type industrial. Give reduced motion a direct reveal.
+
+DESCRIPTION
+A narrow inspection port reveals a fictional pottery kiln’s glowing load.
+
+VISUAL TECHNIQUES
+Brick bonding pattern, CSS vessel silhouettes, radiant chamber, sliding steel shutter.
+
+INTERACTION MODEL
+Slide the inspection handle to open or close the kiln port continuously.

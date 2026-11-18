@@ -1,0 +1,14 @@
+TITLE
+Obsidian Weather
+
+PROMPT
+Place a single hovering fractured ice specimen inside a deep slate #202d39 chamber. Make its pale blue #abcad3 facets react to a movable light. Use a hand-written fragment shader to clip an asymmetric crystal and assign glancing reflections to its triangular planes. Reserve a thin vertical specimen label and ample silence. Provide a visible faceted fallback.
+
+DESCRIPTION
+A geological specimen changes from almost black to brilliant silver as the light moves.
+
+VISUAL TECHNIQUES
+WebGL fragment shading, faceted silhouette, coordinate-guided reflection, CSS fallback.
+
+INTERACTION MODEL
+Drag over the specimen or use the arrow keys to move the light.

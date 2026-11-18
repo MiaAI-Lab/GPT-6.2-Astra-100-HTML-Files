@@ -1,0 +1,14 @@
+TITLE
+Low Water
+
+PROMPT
+Fill a dark #142f34 intertidal pool with large anemones made of tapered mint #99e9cf and russet tentacles. Crop a few at the edges. Draw each creature with an irregular radial crown around an oval mouth, twisting slowly until a finger passes and the filaments curl inward. Set a quiet italic Georgia title over the water and a naturalist's short observation underneath. Keep the water still under reduced motion.
+
+DESCRIPTION
+A shallow basin appears almost empty until its many filament crowns respond to a passing hand.
+
+VISUAL TECHNIQUES
+Seeded radial linework, layered pigment, staggered angular frequencies, high-density canvas.
+
+INTERACTION MODEL
+Brush or touch to make nearby crowns recoil. Activate the basin with the keyboard to disturb its center.

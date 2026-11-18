@@ -1,0 +1,14 @@
+TITLE
+Sanguinella
+
+PROMPT
+Make a fruit seller's poster with a huge blood orange taking up the left two thirds and a narrow specimen label opposite. Use saffron #ffc85b, scarlet #b83f25 and creamy pith. Render the wheel as irregular wedges packed with individually drawn translucent juice sacs. Drag the section gauge from heel to equator to expose its expanding star of pith. Use bold, compact lettering and specific tasting copy.
+
+DESCRIPTION
+A market specimen can be sectioned at different depths to reveal its glistening interior.
+
+VISUAL TECHNIQUES
+Procedural vesicles, nested rind rings, segmented polar drawing.
+
+INTERACTION MODEL
+Adjust the cut depth with the section gauge.

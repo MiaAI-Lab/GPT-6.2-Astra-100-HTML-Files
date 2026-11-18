@@ -1,0 +1,14 @@
+TITLE
+One Body Through
+
+PROMPT
+Build a severe municipal admission counter in mint #d6e4ca and dark green #374d46. Give the top third to an enormous machine number with leading zeroes. Below it diagram a top-down three-armed turnstile between two striped barriers. Each admission rotates the gate through precisely one third of a turn and increments the mechanical total. Name each fictional passenger in a little station log. Use heavy grotesque numerals and compact monospace directions.
+
+DESCRIPTION
+An imaginary station records its morning arrivals one passenger at a time.
+
+VISUAL TECHNIQUES
+Large tabular counter, striped barriers, threefold rotor, mechanical easing.
+
+INTERACTION MODEL
+Admit a passenger with the button and read the latest entry.

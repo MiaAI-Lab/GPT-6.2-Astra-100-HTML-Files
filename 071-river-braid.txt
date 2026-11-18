@@ -1,0 +1,14 @@
+TITLE
+Channels of the Vey
+
+PROMPT
+Treat the braided fictional Vey River as an unbound topographic map. On tan silt #d8c9ac draw dozens of crossing slate-water #52757b channels and parallel dry banks. Place map lettering directly on the landscape and a compact diversion lever in its southwest corner. As the reader diverts flow, some channels spread while others narrow. Let the raised bars and islands read as an organic woven pattern.
+
+DESCRIPTION
+A river survey follows the paths that water could take through a wide gravel plain.
+
+VISUAL TECHNIQUES
+Parametric channel centerlines, silt texture, multilayer bank strokes, map annotations.
+
+INTERACTION MODEL
+Move the diversion lever to redistribute the river threads.

@@ -1,0 +1,14 @@
+TITLE
+Loose Register
+
+PROMPT
+Make an exuberant press proof on salmon #ffd8d0 with blue #255cad ink and a red-orange second plate. Fill a tall art sheet with intertwined broad loops, split by fine paper-colored racing stripes. Add crop marks and a rough edition imprint. Horizontally drag the red printing plate out of register, changing the topology of the overlapping colors. Set the name vertically by the art.
+
+DESCRIPTION
+A two-plate printer's proof makes the play between registration and abstraction tangible.
+
+VISUAL TECHNIQUES
+SVG ribbon paths, parallel keylines, multiply blending and registration crosses.
+
+INTERACTION MODEL
+Adjust horizontal register with the press slider.

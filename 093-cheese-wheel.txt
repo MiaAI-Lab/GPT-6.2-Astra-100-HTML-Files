@@ -1,0 +1,14 @@
+TITLE
+Wheel No. 12
+
+PROMPT
+Design a mountain dairy's inspection docket on warm #f5d07e yellow. Draw an enormous half-height cheese wheel in perspective with tawny rind, an exposed wedge and irregular eyes. A tasting iron extracts one of three samples, each tagged with its location and a particular flavor note. Pair dark #75452c serif numerals with small dairy ledger labels. The wheel is fictional and should feel like a remembered family farm.
+
+DESCRIPTION
+Three core samples trace the imagined flavor of an alpine wheel from rind to center.
+
+VISUAL TECHNIQUES
+Isometric wheel silhouette, stippled rind hatching, cheese eyes, sliding tasting iron.
+
+INTERACTION MODEL
+Press the sampling button to draw successive cores and change the inspector's note.

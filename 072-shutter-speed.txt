@@ -1,0 +1,14 @@
+TITLE
+One Turn of the Dancer
+
+PROMPT
+Design a movement laboratory plate in dusty rose #e5cbd4 and mulberry #593850. Place a dancer’s strong gesture along a horizontal path; layer translucent previous poses behind the leading figure. Use articulated limbs, a circular head and flared skirt instead of a stick figure. The exposure slider should move from a single frozen figure to a readable fan of motion. Frame the plate with tiny typographic exposure marks and an asymmetric heading.
+
+DESCRIPTION
+A fictional studio test records a dancer’s traveling turn as a variable multiple exposure.
+
+VISUAL TECHNIQUES
+Articulated vector silhouettes, opacity blending, successive poses, photographic tick marks.
+
+INTERACTION MODEL
+Lengthen the exposure to see earlier poses accumulate.

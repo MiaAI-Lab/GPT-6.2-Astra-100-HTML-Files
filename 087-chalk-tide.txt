@@ -1,0 +1,14 @@
+TITLE
+Penny Lock
+
+PROMPT
+Make a mint #c0dcce civil-engineering section of an invented canal lock in #3e6057 technical ink. Give the chamber hatched concrete abutments, a graduated depth gauge and a loaded red barge. A labelled valve switches between lower and upper pounds. Animate water and boat together and report the measured height on a giant digital-style readout. Lay the title on a narrow top rule like a waterworks drawing.
+
+DESCRIPTION
+A cutaway of Penny Lock elevates a loaded canal barge with one valve.
+
+VISUAL TECHNIQUES
+Section hatching, SVG translation, synchronized water level and floating hull, live gauge.
+
+INTERACTION MODEL
+Operate the sluice to fill or drain the chamber. Reduced motion changes levels immediately.

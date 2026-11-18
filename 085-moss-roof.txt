@@ -1,0 +1,14 @@
+TITLE
+The North Pitch
+
+PROMPT
+Present a field report on a miniature ecosystem inhabiting an invented cottage roof. Place a steep slope of overlapping slate scales across the lower half of a moss-yellow #d0d3a7 field. Illustrate lichen coins, moss cushions and stonecrop in deep #485d40 ink. Above the slope run an editorial serif headline and a short field observation. Three habitat tabs relocate a circular specimen lens and replace the note with a specific observation.
+
+DESCRIPTION
+A botanical field note uses a single roof as a map of three small worlds.
+
+VISUAL TECHNIQUES
+Overlapping slate pattern, stippled specimen clusters, circular enlarged botanical detail.
+
+INTERACTION MODEL
+Select a habitat name to examine its specimen and read the corresponding field note.

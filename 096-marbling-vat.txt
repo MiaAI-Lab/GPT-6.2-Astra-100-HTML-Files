@@ -1,0 +1,14 @@
+TITLE
+The Floating Ink
+
+PROMPT
+Start in medias res with an entire vat of marbled paper pigment: compressed ribbons of blush #e9bfae, slate #405d76, cream and terracotta twisting in oily folds. Keep the worktable label small so the artwork occupies the viewport. Comb a local area with the finger to bend the bands; a rinse control restores the fresh bath. Make the interaction direct and still when untouched.
+
+DESCRIPTION
+A fingertip draws a local current through a bath of bookbinder's marbling colors.
+
+VISUAL TECHNIQUES
+Canvas contour rasterization, warped sinusoidal pigment strata, local inverse coordinate displacement.
+
+INTERACTION MODEL
+Drag to comb. Keyboard activation adds a curl in the center; rinse clears the disturbances.

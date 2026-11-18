@@ -1,0 +1,14 @@
+TITLE
+The Stone Alphabet
+
+PROMPT
+Create a fictional mason’s alphabet cut into a pale grey #d7d1c7 stone slab in #4f4947 shadow. Offer three families of chisel stroke, named Gate, Fork and Spring. Tapping a family cycles its orientation on the slab, making a composite quarry mark. Show the three-part reading in the margin and let the user build unexpected interlocking signs. Use a monumental serif for the title and small stone-cutter’s numerals for the controls. Draw the incision with adjacent shadow and light.
+
+DESCRIPTION
+Three elementary strokes combine into a personal maker’s mark for a fictional stone yard.
+
+VISUAL TECHNIQUES
+Offset engraved paths, cut-corner slab, mineral stippling, rotational glyph composition.
+
+INTERACTION MODEL
+Cycle each stroke through its orientations and read the composite mark number.

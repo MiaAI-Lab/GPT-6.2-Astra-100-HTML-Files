@@ -1,0 +1,14 @@
+TITLE
+The Thursday Tin Parade
+
+PROMPT
+Illustrate three tin walking birds on a toy-box stage. Use #aacfc6 mint, #8b332d lacquer and brass cream, with riveted bodies, striped wings, triangular bills and hinged feet. Set a cheerful block-letter box title above a red display shelf. Winding the toy starts a short parade with bobbing bodies and scissoring feet. Preserve the lined-up display at rest. Write the instructions like those printed on a toy box.
+
+DESCRIPTION
+Three little clockwork birds take their Thursday exercise along a shop shelf.
+
+VISUAL TECHNIQUES
+Tin silhouettes built from CSS, rivets, stripes, articulated walking cycles.
+
+INTERACTION MODEL
+Wind the spring to start a brief march.

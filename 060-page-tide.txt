@@ -1,0 +1,14 @@
+TITLE
+The Shore Reads Both Ways
+
+PROMPT
+Lay out an original reversible shore poem as a long vertical tide gauge. Alternate left- and right-bank lines on mist #d5dee4 with blue ink #344e67. Make a fixed waterline track the reader’s depth and quietly tint the submerged paper. Reading down gives an arrival at the sea; reading upward leads back to the house. Use refined serif fragments, large empty intervals and a sticky gauge for the tide. Finish with a return-to-top control.
+
+DESCRIPTION
+A walk between kitchen and sea can be read in either direction.
+
+VISUAL TECHNIQUES
+Vertical reading sequence, mirrored margins, fixed translucent wash, live tide gauge.
+
+INTERACTION MODEL
+Scroll down the poem, then read upward with the changing tide. The final link returns to the beginning.

@@ -1,0 +1,14 @@
+TITLE
+Through the Alder Book
+
+PROMPT
+Build a paper peepshow in sage #c5d5be and fir #354b43. Nest several illustrated cut-paper forest portals around a tiny cabin in a clearing. Shape the sides with trunks, angular branches and leaves; each layer casts a thin physical shadow. Pull a tab to travel into the book, with foreground planes advancing faster than the distant cabin. Add a short fairy-tale line beneath the scene.
+
+DESCRIPTION
+A miniature forest expands around the reader as a tunnel book opens.
+
+VISUAL TECHNIQUES
+Layered SVG silhouettes, parallax scaling, drop shadows and hand-cut foliage.
+
+INTERACTION MODEL
+Pull the binding slider to open the tunnel and discover the cottage.

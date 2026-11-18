@@ -1,0 +1,14 @@
+TITLE
+Winters in a Tube
+
+PROMPT
+Show a horizontal slab of extracted glacial ice as a long translucent #bbdceb core, crossed by hundreds of fine irregular strata, trapped air and several smoky ash bands. Surround it with the quiet #344b59 lettering of a fictional polar archive. A sliding depth reader places a red sight line on the core and reports an imagined sampling note below. Type the depth in large balanced digits. Hold still between readings.
+
+DESCRIPTION
+An archive bench presents a stratified specimen from the invented Nacre Ice Shelf.
+
+VISUAL TECHNIQUES
+Procedural SVG strata, capsule clipping, crosshair overlay, laboratory typography.
+
+INTERACTION MODEL
+Move the depth control to examine the embedded sample observations.

@@ -1,0 +1,14 @@
+TITLE
+The Winding Room
+
+PROMPT
+Draw a huge wooden bobbin in profile on apricot #ffd1a4. Thousands of winding diagonal filaments should build a dense skein of mulberry #83354a. Two wooden end flanges contain the thread. Let a skein-length slider wind and unwind the spool, exposing bare wood. Compose it like a haberdashery advertisement, with a bold tiny maker's mark and fine italic display lettering.
+
+DESCRIPTION
+A thread merchant's sample book lets the viewer wind a richly textured bobbin.
+
+VISUAL TECHNIQUES
+Canvas woodgrain, elliptical end caps, seeded filament drawing and highlights.
+
+INTERACTION MODEL
+Change the wound length with the yardage slider.

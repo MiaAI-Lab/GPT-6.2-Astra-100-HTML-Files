@@ -1,0 +1,14 @@
+TITLE
+Academy of Waiting
+
+PROMPT
+Build a leader for an imaginary film called The Long Interval. Place the oversized countdown number behind two fine circles and a crosshair inside a gray-green #e2dfca film frame. The film strip has dark #343330 perforated rails and a clipped lab inscription. Cranking through frames should sweep a translucent sector around the dial, advance the numeral and expose the hidden film title at the last frame. Use spare block type and an operator key, stopping between advances.
+
+DESCRIPTION
+A hand-operated countdown turns a few seconds of waiting into a private film premiere.
+
+VISUAL TECHNIQUES
+Perforated CSS rails, SVG target frame, radial shutter rotation, display numerals.
+
+INTERACTION MODEL
+Advance the reel with each key press. Rewind after the final title frame.

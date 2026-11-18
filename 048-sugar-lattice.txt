@@ -1,0 +1,14 @@
+TITLE
+Violet Sugar Works
+
+PROMPT
+Make a confectioner's growth tank on sugared pink #edc5e2 with amethyst #6e4181 writing. Suspend a wooden skewer in a cutaway syrup jar. Grow translucent faceted crystals around the skewer in irregular clustered layers, each rhombus split into three differently lit planes. Seed the solution to accrete a new band and report its growth batch; once full, harvest and start again. Use playful serif display type and discreet recipe marks.
+
+DESCRIPTION
+The crystallizing syrup forms a jewel-colored rock-candy specimen on a suspended stick.
+
+VISUAL TECHNIQUES
+Canvas isometric crystal facets, transparent solution, layered crystal clusters.
+
+INTERACTION MODEL
+Seed the syrup to add crystal growth. Harvest a mature skewer to begin again.

@@ -1,0 +1,14 @@
+TITLE
+The Long Chord
+
+PROMPT
+Paint a wine-red accordion horizontally across a coral #b75042 room. Ivory #f7dcb4 keys and fretwork sit on either side of dense alternating bellows. A lever underneath opens the pleats and changes the chord’s register. Provide a separate sound toggle, silent at entry. Use compact capitals on the casing and a small sheet-music-like caption below. Let the instrument dominate the viewport.
+
+DESCRIPTION
+A concertina study stretches a held chord across a room of red lacquer.
+
+VISUAL TECHNIQUES
+Procedural SVG folds, inlaid grille, compact keyboard, oscillator triad.
+
+INTERACTION MODEL
+Open and close the bellows with the slider. Enable the chord with the sound control.

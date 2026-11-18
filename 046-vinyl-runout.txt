@@ -1,0 +1,14 @@
+TITLE
+Locked Groove Society
+
+PROMPT
+Crop a large graphite-black #242222 vinyl disc into the left edge of an independent record sleeve. Cut concentric grooves and fine specular bands; place a coral #ed9370 center label and an articulated silver tonearm over the outer edge. Three track keys cue different radial positions and print a concise imaginary track note. Set the record imprint and side letter in tightly tracked grotesque. Use a slow rotation only while motion is allowed. Keep the listening-room study silent.
+
+DESCRIPTION
+A silent inspection deck pairs three groove positions with notes from an invented field recording.
+
+VISUAL TECHNIQUES
+SVG concentric grooves, reflective radial bands, pivoted tonearm, animated center label.
+
+INTERACTION MODEL
+Cue a track with the track list to reposition the stylus and read its field note.

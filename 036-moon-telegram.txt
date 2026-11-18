@@ -1,0 +1,14 @@
+TITLE
+Cable from Mare Nix
+
+PROMPT
+Create an intercepted lunar cable on #222c38 with mint #bad9b1 monospaced phosphor. Arrange a masthead, call signs, a ruled message field and operational key, like an archival teleprinter. The ciphertext is readable as evenly spaced five-letter blocks. Throw the decoder to resolve the blocks left to right into a bittersweet dispatch from a fictional lunar florist. End with the operator's sign-off. Respect reduced motion with an immediate decode.
+
+DESCRIPTION
+A distant florist’s report is concealed inside a short cipher transmission.
+
+VISUAL TECHNIQUES
+Phosphor type, perforated terminal border, timed block substitution.
+
+INTERACTION MODEL
+Decode the cable, then reseal it to restore the transmission.

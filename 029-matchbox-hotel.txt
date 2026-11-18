@@ -1,0 +1,14 @@
+TITLE
+The Matchbox Hotel
+
+PROMPT
+Stage a single enormous diagonal matchbox on a salmon #cc6550 counter. Print a scalloped black #251f22 label with a monumental H, an old hotel name and three tiny stars. Render a stippled striker on the long edge. Slide the ivory drawer sideways with a room key; inside each drawer is a short eccentric guest record. Use sturdy display serif lettering and typewritten guest cards. The drawer should settle like cardboard rubbing cardboard.
+
+DESCRIPTION
+A pocket-sized hotel hides an eccentric register under its commercial label.
+
+VISUAL TECHNIQUES
+Layered cardboard shadows, printed medallion, radial striker stipple, sliding drawer.
+
+INTERACTION MODEL
+The desk key alternates opening and closing the drawer, rotating among three guest records.

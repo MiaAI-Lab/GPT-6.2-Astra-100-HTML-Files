@@ -1,0 +1,14 @@
+TITLE
+Fair Portions
+
+PROMPT
+Make a bakery table for sharing one round cherry pie. Arrange the pie as a large overhead engraving with a scalloped crust, golden diagonal lattice and red filling; leave a flour-colored #eed4aa margin around the copper #924b30 ink. Use a broad Georgia masthead and small recipe-book numerals. Pluses and minuses choose two to eight guests. The pastry should fan into mathematically equal sections with the lattice continuous across the cut and a changing fraction in the bill of fare.
+
+DESCRIPTION
+A round cherry pie becomes an edible fraction diagram as diners join the table.
+
+VISUAL TECHNIQUES
+SVG wedge clipping, continuous diagonal pastry pattern, scalloped perimeter, exploded geometry.
+
+INTERACTION MODEL
+Use the guest controls to divide the pie and read one diner's exact share.

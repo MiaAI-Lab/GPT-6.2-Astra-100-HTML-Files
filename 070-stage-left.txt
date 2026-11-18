@@ -1,0 +1,14 @@
+TITLE
+Three Cues for an Empty Stage
+
+PROMPT
+Build a frontal paper theater with oxblood curtains on a #332832 wall, gold trim #eac19e and a scalloped proscenium. Exchange the three miniature painted backdrops when a stage cue is selected. A night orchard, daylight harbor and scarlet moon should occupy the same little stage, each with distinct cutout silhouettes and its own wash. Draw the house title in cream playbill lettering. Give the scene-change controls the look of prompt-book tabs.
+
+DESCRIPTION
+The audience is seated. A stage manager calls three scenes before the actors arrive.
+
+VISUAL TECHNIQUES
+Vector scenery, interchangeable silhouettes, pleated curtains, painted footlights.
+
+INTERACTION MODEL
+Call a numbered cue to switch the backdrop and lighting.

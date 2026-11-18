@@ -1,0 +1,14 @@
+TITLE
+The Breakwater Test
+
+PROMPT
+Draw a coastal engineer’s wave tank from above in #b5cbd0, #384451 and white foam. Put an oversized narrow sans title over a ruled survey margin. Stack fine oscillating wave crests across the water. Let visitors tap the seabed to sink granite blocks that cast widening calm shadows downstream. Provide a keyboard placement control and a way to clear the wall. Use terse field instructions and coordinates.
+
+DESCRIPTION
+A working coastal sketch shows how a line of granite interrupts an incoming swell.
+
+VISUAL TECHNIQUES
+Procedural wave crests, angular granite silhouettes, downstream attenuation.
+
+INTERACTION MODEL
+Tap the tank to place granite or extend the wall with the keyboard-accessible button. Clear the tank to begin again.

@@ -1,0 +1,14 @@
+TITLE
+Shelf of Small Silences
+
+PROMPT
+Design the shelf of a fictional lending library devoted to silence, with five differently proportioned cloth spines in dusty rose #d3bdbe, plum #534755 and faded sage. Let each title read vertically in engraved serif type; include double gold rules and individual shelf marks. Select a book to lift it above the shelf and display its first sentence on the catalogue slip below. Use a literary rather than technical voice.
+
+DESCRIPTION
+A pocket library describes kinds of silence by way of the opening lines of imagined books.
+
+VISUAL TECHNIQUES
+Vertical lettering, cloth-like microstripes, foil rules, individually proportioned spines.
+
+INTERACTION MODEL
+Press a spine to pull it forward and read the selected opening on the slip.

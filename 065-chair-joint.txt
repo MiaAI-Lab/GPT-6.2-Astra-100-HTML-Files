@@ -1,0 +1,14 @@
+TITLE
+Shoulder & Cheek
+
+PROMPT
+Illustrate a mortise and tenon as an exploded furniture-maker’s plate on #d6bd98 stock. Make a thick upright walnut post with a dark rectangular mortise and a horizontal rail with a narrow tongue. Draw grain lines along each plane with #493b2e ink. A fitted/exploded control retracts the rail along a dashed alignment guide. Use a sober serif heading and workshop annotations naming the shoulder and cheek.
+
+DESCRIPTION
+A chair rail parts from its post to expose the joint normally hidden inside.
+
+VISUAL TECHNIQUES
+Axonometric solids, incised grain, alignment guide, sliding joinery.
+
+INTERACTION MODEL
+Fit the rail into the post and withdraw it again.

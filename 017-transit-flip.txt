@@ -1,0 +1,14 @@
+TITLE
+Last Cars
+
+PROMPT
+Build the departures board of an invented tram depot. Amber #ffda70 mechanical flap letters sit in a wall of muted green-black #29342c modules, divided by horizontal hinge seams. Display one enormous destination, a smaller platform and time and a dispatch lever. Dispatching the car tumbles letters out of phase before the next destination settles. Make it feel like the last service of the night.
+
+DESCRIPTION
+Three late services rotate through a mechanical depot sign.
+
+VISUAL TECHNIQUES
+Split-flap shadows, staggered keyframes, monospaced display modules.
+
+INTERACTION MODEL
+Dispatch the waiting car to bring up the next service.

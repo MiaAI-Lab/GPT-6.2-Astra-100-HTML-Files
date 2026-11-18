@@ -1,0 +1,14 @@
+TITLE
+Sixfold Scissors
+
+PROMPT
+Hang a single round paper doily in a pale #cddce1 window, casting a soft slate #586f86 shadow. Form a scalloped silhouette and pierced leaves, diamonds and little round eyelets in twelve radial panels. Let the viewer touch a point to punch a cut at the same radius in every panel; include a button to remove all added cuts. Use fine serif lettering and a workroom instruction.
+
+DESCRIPTION
+Each modest cut appears twelve times, gradually opening the white sheet into a personal lace pattern.
+
+VISUAL TECHNIQUES
+SVG luminance mask, repeated polar motifs, scalloped perimeter, punched paper shadow.
+
+INTERACTION MODEL
+Touch the paper to add a ring of holes. Keyboard users can press Enter for an additional ring; reset restores the original sheet.

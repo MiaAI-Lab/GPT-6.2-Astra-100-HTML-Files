@@ -1,0 +1,14 @@
+TITLE
+The Estuary at Low Water
+
+PROMPT
+Draw a full-width estuary chart on pale silt #ddd6aa with teal #376f75 water. Use a continuous mathematical elevation field to produce coherent contour lines and sandy ridges. Label an imaginary reach in compact survey lettering, with a wide tide gauge under the chart. Raising it should swallow sandbanks and split narrow spits into islands. State clearly that this is a model estuary. Keep the cartographic surface still until operated.
+
+DESCRIPTION
+A fictional shore changes geography as the model tide rises and falls.
+
+VISUAL TECHNIQUES
+Rasterized elevation field, contour bands, paper chart frame, gauge.
+
+INTERACTION MODEL
+Adjust the water height with the gauge to move the coastline.

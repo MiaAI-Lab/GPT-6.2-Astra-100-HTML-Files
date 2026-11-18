@@ -1,0 +1,14 @@
+TITLE
+Hand-Pulled, Plate Four
+
+PROMPT
+Use the buttery #f7db8c and chili #963c27 of a noodle shop's window. Draw a tightly bundled sheaf of sesame-colored noodles hanging between two red pegs. Make its multiple strands sag in long looping curves and fan apart beneath the hands. Stretch the bundle with a slider so its catenary changes continuously. Set the shop name in oversized compact black capitals above the illustration, and add a confidential kitchen note in italic serif at its foot.
+
+DESCRIPTION
+A kitchen broadside makes the geometry of a noodle pull visible.
+
+VISUAL TECHNIQUES
+Parallel cubic SVG strands with rim highlights, bold shop typography, signed kitchen note.
+
+INTERACTION MODEL
+Adjust the distance between pegs to stretch or relax the skein.

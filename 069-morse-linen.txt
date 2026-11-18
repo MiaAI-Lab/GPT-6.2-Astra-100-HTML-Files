@@ -1,0 +1,14 @@
+TITLE
+A Message in Running Stitch
+
+PROMPT
+Turn typed letters into a woven Morse sampler. Use linen #dddac0 crossed by subtle warp and weft, and dark thread #3b5255. Display the stitched encoding in a generous framed fabric field above a small message input. Distinguish dots from dashes with short and long embroidered segments. Render letter labels below each group. The message should appear stitch by stitch as it is typed. Use a quiet sewing-room voice.
+
+DESCRIPTION
+A linen monogram translates letters into the dots and dashes of a running stitch.
+
+VISUAL TECHNIQUES
+Crosshatched cloth, dashed embroidery border, beveled thread, live encoding.
+
+INTERACTION MODEL
+Enter letters and spaces to see the corresponding Morse stitches.

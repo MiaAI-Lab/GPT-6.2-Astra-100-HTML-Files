@@ -1,0 +1,14 @@
+TITLE
+An Hour Under Linen
+
+PROMPT
+Make a side-by-side proofing journal with a handwritten-style time notation and a large scored loaf under raking light. Use honey #e9cf9d and toasted brown #6d3926. The bread should have a blistered crust, flour dust and four slashes; moving a proofing time control swells its silhouette and opens the slashes. Write the notes in a baker's first-person voice.
+
+DESCRIPTION
+A bakery workbench records a loaf's changes over a fictional hour of proofing.
+
+VISUAL TECHNIQUES
+CSS radial crust, repeated surface flecks, stretched elliptical scoring, scale interpolation.
+
+INTERACTION MODEL
+Slide through the hour to see the loaf swell and read the baker's note.

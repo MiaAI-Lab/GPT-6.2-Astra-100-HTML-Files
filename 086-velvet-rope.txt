@@ -1,0 +1,14 @@
+TITLE
+After the Overture
+
+PROMPT
+Stage a single sagging velvet rope between two brass stanchions in a theatrical #442035 lobby. Use #e9ab99 highlights in the pile and narrow italic title lettering near the floor. Plucking the rope sets off a damped wave that moves along its length; enable its low plucked note only through a visible sound toggle. Keep the foyer dark and the signage understated.
+
+DESCRIPTION
+A quiet instrument hides in the cordon outside an imaginary concert hall.
+
+VISUAL TECHNIQUES
+Layered canvas rope strokes, metallic post gradients, damped standing waves, synthesized pluck.
+
+INTERACTION MODEL
+Touch the rope or press the pluck button. Sound is independently opt-in; reduced motion settles quickly.

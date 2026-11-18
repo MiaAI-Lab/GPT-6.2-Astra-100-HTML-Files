@@ -1,0 +1,14 @@
+TITLE
+Return to Olive Street
+
+PROMPT
+Lay a rose envelope on a pink #f4c9ba writing desk. Use plum #683937 engraved-looking rules and a large italic street address. Compose an intimate letter from a former neighbor about a fig tree, revealed when the envelope opens. Use an angular folded flap, postage-like perforations and a circular postmark. The envelope itself is the button. Lift the letter and fold the flap backward in sequence.
+
+DESCRIPTION
+A private piece of neighborhood history arrives as a tactile paper object.
+
+VISUAL TECHNIQUES
+Polygon paper folds, rotation about a horizontal hinge, layered postal typography.
+
+INTERACTION MODEL
+Open and close the envelope by activating it.

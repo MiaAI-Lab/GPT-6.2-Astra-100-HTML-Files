@@ -1,0 +1,14 @@
+TITLE
+Ribbon Beast
+
+PROMPT
+Let a scarlet paper parade dragon fill a saffron #f0c76f square, its articulated body a chain of crimson #963e39 scallops edged in dark ink and embroidered with gold. Give it an unmistakable head with horns, eyes and whiskers. Drag the nose through the field and let each segment follow its predecessor while maintaining its spacing. Use a festival handbill voice with chunky black headline lettering and a small parade instruction.
+
+DESCRIPTION
+An articulated paper dragon bends back on itself like a long ribbon under the viewer's hand.
+
+VISUAL TECHNIQUES
+Constrained canvas segment chain, rotated head drawing, repeating scale motifs.
+
+INTERACTION MODEL
+Touch or drag to lead the dragon. Arrow keys guide its head in steps.

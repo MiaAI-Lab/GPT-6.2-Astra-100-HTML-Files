@@ -1,0 +1,14 @@
+TITLE
+Sixty-Second Transit
+
+PROMPT
+Use midnight violet #191b30 and bone #ecdbaf for an imaginary celestial clock. Render a large stippled stellar disc crossed by a shadow moon once per minute. Put sixty finely calibrated tick marks around it, with the current second picked out. Display local time below in widely spaced numerals. The only movement comes from the actual clock.
+
+DESCRIPTION
+A minute becomes a transit across a luminous scratched surface.
+
+VISUAL TECHNIQUES
+Cached canvas solar texture, polar graduations, time-derived lunar position.
+
+INTERACTION MODEL
+Observe local time. The moon crosses the dial from left to right each minute.

@@ -1,0 +1,14 @@
+TITLE
+Mail Along the Sound
+
+PROMPT
+Place an oversized landscape postcard on a seafoam #c4e0dd post-office counter. The reverse has a divided address panel, a perforated lighthouse stamp, written message and round #365960 cancellation. Three coastal office buttons change the handwritten message, destination cancellation and serial. Animate each cancellation falling onto the stamp like a heavy date punch. Use stamp engraving, wide serif address lines and very little interface copy.
+
+DESCRIPTION
+Three imaginary coastal offices stamp and dispatch a single postcard with local harbor news.
+
+VISUAL TECHNIQUES
+CSS postage perforations, engraved lighthouse SVG, circular cancellation, paper rotation.
+
+INTERACTION MODEL
+Choose a harbor to change its message and apply a fresh cancellation.

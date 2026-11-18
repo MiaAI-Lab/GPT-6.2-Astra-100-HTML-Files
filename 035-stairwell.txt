@@ -1,0 +1,14 @@
+TITLE
+Landing Without End
+
+PROMPT
+Build a concrete stair study in sand #d1c5b5, graphite #483e34 and chalk. Look straight down into an impossible square stair shaft. Repeated trapezoid treads shrink toward a dark central void, turning at alternating landings; score each with thin nosings. A stair key advances the observer by one landing with a measured quarter-turn. Put a tiny architect's plan caption beneath the drawing and a changing level count. Prefer a stationary jump when reduced motion is requested.
+
+DESCRIPTION
+The observer looks down a looping shaft and steps through its alternating landings.
+
+VISUAL TECHNIQUES
+Canvas perspective scaling, tessellated stairs, quarter-turn camera easing.
+
+INTERACTION MODEL
+Advance a landing with the footstep button. The level counter records the descent.

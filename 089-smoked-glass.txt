@@ -1,0 +1,14 @@
+TITLE
+Amber Fold
+
+PROMPT
+Create an abstract optical object with a hand-written fragment shader: an eccentric disc of smoked #302935 glass with soft folds of liquid #dfa872 caustic light. Cover the viewport, placing quiet engraved serif lettering near one corner. A control changes the angle of the folds like rotating a lens in the hand. Provide a static CSS optical disc where WebGL is unavailable, and keep the field still until adjusted.
+
+DESCRIPTION
+A dark glass lens catches a narrow amber beam and splits it into nested arcs.
+
+VISUAL TECHNIQUES
+Signed radial coordinates, layered trigonometric caustics, shader vignette, procedural fallback.
+
+INTERACTION MODEL
+Turn the range control to revolve the refracted bands inside the glass.

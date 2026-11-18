@@ -1,0 +1,14 @@
+TITLE
+Under the Soot
+
+PROMPT
+Fill the viewport with a soft #272625 charcoal coating. Under it, engrave an intricate golden #efc97a sun as concentric spirographic rings on a dark field. Open with a torn diagonal streak already rubbed through. Put a restrained atelier mark and a rubbing instruction in the upper margin. Let fingers erase the surface freely and provide a keyboard-accessible broad polishing gesture. Static revelation replaces animated sparkle.
+
+DESCRIPTION
+A hidden metallic guilloché plate gradually comes to light under the visitor's hand.
+
+VISUAL TECHNIQUES
+Layered canvases, destination-out compositing, fine polar curves, stippled soot.
+
+INTERACTION MODEL
+Drag over the soot or press Polish to clear a stripe. Recoat restores the cover.

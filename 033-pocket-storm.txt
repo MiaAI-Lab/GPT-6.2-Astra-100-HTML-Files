@@ -1,0 +1,14 @@
+TITLE
+Storm No. 3
+
+PROMPT
+Bottle a bruised thunderhead inside a laboratory jar with a ribbed stopper. Violet-black #373147 walls and pale lavender #eac7ff etching should suggest a cabinet of volatile samples. Suspend small dark clouds over a pool of rain. Make the whole vessel an ignition control; tapping it grows one branching filament from cloud to ground, then the charge decays gently. Place the collection label on the jar and keep the room otherwise nearly empty. Avoid flashing the background.
+
+DESCRIPTION
+A bottled storm keeps its weather to itself until the jar is touched.
+
+VISUAL TECHNIQUES
+Canvas branching discharge, shaded CSS glass, scalloped cloud bank, letterpress specimen label.
+
+INTERACTION MODEL
+Tap the jar or activate it by keyboard to produce one slowly fading discharge.

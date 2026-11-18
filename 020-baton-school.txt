@@ -1,0 +1,14 @@
+TITLE
+The Silent Downbeat
+
+PROMPT
+Place an ivory #f4dbab conducting diagram on a wine #46212e rehearsal-room wall. A single baton follows the four beats of common time, down, in, out, up, across a gracefully curved path. Mark the endpoints with delicate numbered rings. A viewer advances one beat per tap, visibly moving the baton and illuminating the current count. Use italic musical Italian and engraved rehearsal typography.
+
+DESCRIPTION
+A silent studio teaches a four-beat gesture one movement at a time.
+
+VISUAL TECHNIQUES
+Curved SVG diagram, animated coordinates, pivoting tapered baton.
+
+INTERACTION MODEL
+Press the beat key repeatedly to conduct a bar.

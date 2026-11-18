@@ -1,0 +1,14 @@
+TITLE
+Underpass in D
+
+PROMPT
+Place the audience inside a tiled underpass whose nested arches recede toward a butter-colored exit. Use deep petrol #263439 and sodium #edb477 with a centered vanishing point. Treat three exit signs as choir keys, low D, middle A and high D. Give each key an outward ripple along the ribs and a short synthesized vowel chord only after sound is enabled. Put the title in strong condensed system lettering high on the wall.
+
+DESCRIPTION
+A tiled passage becomes a small three-note choir, its echoes visible in each arch.
+
+VISUAL TECHNIQUES
+Perspective arch series, staggered SVG illumination, additive vowel-like synthesis.
+
+INTERACTION MODEL
+Select an exit key to pulse the tunnel. Enable sound to hear its corresponding voice.

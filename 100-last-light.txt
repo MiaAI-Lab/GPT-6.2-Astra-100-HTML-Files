@@ -1,0 +1,14 @@
+TITLE
+The Last Light
+
+PROMPT
+Make the closing exhibit a folding panorama of dusk. Spread angular lilac and oxblood headlands below a pale apricot #f0bb92 sky, with an enormous low sun behind the far ridge. Divide the landscape into vertical accordion folds whose shading alternates. Pull a final control to contract the entire panorama into a narrow spine, letting the simple parting line appear around it. Use very little ink, in muted #70495b, and almost no furniture.
+
+DESCRIPTION
+The final view of the exhibition folds up like a travel keepsake and opens again at a touch.
+
+VISUAL TECHNIQUES
+Continuous layered SVG panorama, repeated fold shading, eased horizontal contraction, disappearing sun.
+
+INTERACTION MODEL
+Close the panorama to reveal its farewell. Unfold it to restore the full landscape. Reduced motion jumps between states.

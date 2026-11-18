@@ -1,0 +1,14 @@
+TITLE
+Night Clerk
+
+PROMPT
+Set a tall thermal receipt on a charcoal #242025 counter. Use blush #ffcbb6 for the paper and near-black monospaced ink. Inventory sleepless minutes as if purchased from a late-night shop. Three register keys ring up different thoughts, lengthening the slip and updating the total. Finish with a serrated edge and a barcode. Make the store's language dry and particular.
+
+DESCRIPTION
+An odd little till keeps the books on late-night rumination.
+
+VISUAL TECHNIQUES
+Sawtooth mask, barcode stripes, tabular typography, expanding paper.
+
+INTERACTION MODEL
+Press a thought key to add its minutes or settle the bill to start fresh.

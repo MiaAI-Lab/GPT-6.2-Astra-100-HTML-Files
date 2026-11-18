@@ -1,0 +1,14 @@
+TITLE
+Convergence
+
+PROMPT
+Build a dark horizontal optical bench in #242c31 with a translucent cyan biconvex lens and five precise #f0cf69 rays entering from the left. Put a calibrated rail beneath the drawing and an imposing monospace focus reading. A brass focus wheel represented by a range control changes the point at which rays cross and continue beyond. Use clipped technical copy from an imaginary school laboratory.
+
+DESCRIPTION
+Parallel beams collapse to one point and spread again across an optical diagram.
+
+VISUAL TECHNIQUES
+SVG ray tracing, transparent optical surfaces, rail graduations, numeric readout.
+
+INTERACTION MODEL
+Slide the focal-length control using touch, pointer or arrows to move the convergence point.

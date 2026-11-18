@@ -1,0 +1,14 @@
+TITLE
+Pass Post
+
+PROMPT
+Draw a folded alpine postal route map with nested brown #5d483b contour loops on sage #d0debc. Mark three high passes with tiny station circles and route names. A route selector inks the line from the depot to the selected pass. Use the lean lettering of a topographic sheet, a compact scale and an oversized issue number.
+
+DESCRIPTION
+A mountain post office maintains three precarious routes across a landscape of contoured peaks.
+
+VISUAL TECHNIQUES
+Parametric contour lines, animated SVG dash offsets, station cartography.
+
+INTERACTION MODEL
+Choose a pass from the route list to trace its delivery path.

@@ -1,0 +1,14 @@
+TITLE
+A City in the Margins
+
+PROMPT
+Make an annotated literary fragment set in enormous Georgia type on #ebe5cd paper. Three superscript buttons in #573b54 reveal streets in a city that exists only in footnotes. Set a narrow margin column alongside the fragment on wide screens. Treat the annotation like an atlas inset, with a changing orthogonal street plan, a numbered title and one precise memory. Changes should feel like turning a leaf, with a short ink reveal. Keep all three notes accessible on touch.
+
+DESCRIPTION
+A fictional walking passage opens into three small places as its footnotes are explored.
+
+VISUAL TECHNIQUES
+Oversized book typography, SVG street plan, inset marginalia, ink reveal.
+
+INTERACTION MODEL
+Select any superscript to replace the marginal map and text with its corresponding location.

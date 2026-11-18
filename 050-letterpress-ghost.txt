@@ -1,0 +1,14 @@
+TITLE
+The Ghost Impression
+
+PROMPT
+Design a letterpress proof sheet on fibrous ivory #eeebd9. Print the word ECHO on four lines, growing in weight and tracking, with a visible coral ghost displaced over a blue #1d4967 impression. Include corner registration targets and a job line from a fictional press. A horizontal registration screw should converge both plates exactly, darkening the overlap and reporting the offset on a live galley readout. Use the word itself as the image.
+
+DESCRIPTION
+A print proof makes the thin boundary between a ghost and a clean impression legible.
+
+VISUAL TECHNIQUES
+SVG overprinted type, multiply blending, crosshair registration marks, varying letter spacing.
+
+INTERACTION MODEL
+Turn the registration control toward zero to bring the two impressions together.

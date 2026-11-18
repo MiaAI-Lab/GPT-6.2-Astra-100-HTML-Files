@@ -1,0 +1,14 @@
+TITLE
+Cinder, Passing
+
+PROMPT
+Make a dark full-bleed comet engraving in #19232e with chalk white, ice #c8ede2 and copper trails. Write the title like a quiet astronomical marginal note at the bottom. Sweep hundreds of fine filaments across the sky into a tiny brilliant nucleus. Moving or tapping the nucleus’s destination steers the filaments in curved paths. A keyboard command should choose a new course. Keep the heavens spare and silent.
+
+DESCRIPTION
+An icy visitor turns its plumed tail across a private patch of sky.
+
+VISUAL TECHNIQUES
+Layered Bézier streamers, sparse seeded stars, high-DPI canvas, luminous nucleus.
+
+INTERACTION MODEL
+Point at the sky or press the course button to redirect the comet.

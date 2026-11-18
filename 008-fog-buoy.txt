@@ -1,0 +1,14 @@
+TITLE
+Bell No. Nine
+
+PROMPT
+Draw a rusted navigation buoy, modest in scale against a massive pale gray-green #85999b sea. Use oxide #372e26 for the cage and faded orange for its hull. Build its silhouette from polygons and rails. Give the water horizontal seams and an indistinct horizon. Holding the lookout key clears banks of fog and reveals distant headlands. Keep type low and quiet, like an entry in the watch log.
+
+DESCRIPTION
+A still watch off a fictional headland asks the viewer to wait for a sightline.
+
+VISUAL TECHNIQUES
+Layered translucent gradients, polygon coastline, CSS buoy silhouette and rocking motion.
+
+INTERACTION MODEL
+Hold the lookout button with touch, mouse or keyboard to clear the fog.

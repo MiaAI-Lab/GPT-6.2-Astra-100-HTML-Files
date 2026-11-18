@@ -1,0 +1,14 @@
+TITLE
+A Plate, Kept
+
+PROMPT
+Place a single pale porcelain plate against mist #dfebeb, with a cobalt willow motif and delicate double rim. A branching fracture cuts across the glazed surface. Let the viewer draw a warm gold #715632 repair along the fissure with a single action. Set the title and owner's note beside the plate in quiet book typography. Avoid machinery: this is about keeping a familiar possession.
+
+DESCRIPTION
+A cracked dinner plate acquires a bright seam and a second life.
+
+VISUAL TECHNIQUES
+Inline SVG ornamental repeats, radial glaze, dash-animated branching seam.
+
+INTERACTION MODEL
+Apply or remove the gold repair with the caption button.

@@ -1,0 +1,14 @@
+TITLE
+Beurre en Copeaux
+
+PROMPT
+Create an illustrated dairy wrapper in butter yellow #ffe898 and toasted ink #82521d. Give it scalloped brown borders, curved script-like Georgia italics and a central isometric block of cultured butter on wax paper. A grooved shaving appears beside the block every time the reader draws the butter curler. Reduce the block and stack the curls neatly. Use the language of a small fictional creamery.
+
+DESCRIPTION
+A paper wrapper doubles as the serving counter at Bell Meadow Dairy.
+
+VISUAL TECHNIQUES
+Three-face vector block, ridged curl symbols, scalloped wrapper edges.
+
+INTERACTION MODEL
+Shave up to eight curls and unwrap another block.

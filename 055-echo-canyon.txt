@@ -1,0 +1,14 @@
+TITLE
+Four Returns
+
+PROMPT
+Make a panoramic woodcut canyon in rust #a64737, amber #ffdb9a, black plum and clay. Crowd the horizon with broken mesas and hatch their walls. Place four echo stations at progressively higher ledges. A single explicit sound button sends a short sung note across the ravine. Stage diminishing rings at successively distant stations and schedule quieter audio returns. Use the spare lettering of a Western record sleeve.
+
+DESCRIPTION
+A canyon answers a single call four times, each return smaller than the last.
+
+VISUAL TECHNIQUES
+Layered mesa profiles, hatched rock, staggered expanding line rings, synthesized tones.
+
+INTERACTION MODEL
+Press the sound button to call into the canyon. Four echoes travel across the illustration.

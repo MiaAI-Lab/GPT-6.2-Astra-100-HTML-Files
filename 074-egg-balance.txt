@@ -1,0 +1,14 @@
+TITLE
+The Patient Egg
+
+PROMPT
+Make a small balancing game with a speckled sage egg on a long thin beam. Use a generous field of #c7dbbb and dark #496451 marks. Put the beam’s triangular support at center and show the egg rocking on the slope. A tilt control lets the reader brake a gently rolling egg and settle it within a painted nest at midpoint. Show a held-balance timer and provide reset. Write instructions like a patient kitchen experiment. For reduced motion allow direct placement.
+
+DESCRIPTION
+Counter-tilt a beam until the egg has nearly stopped in the painted nest.
+
+VISUAL TECHNIQUES
+Speckled CSS egg, tilting beam, damped rolling motion, timed balance detection.
+
+INTERACTION MODEL
+Use the slider to control the slope. Hold the egg in the center for two seconds. Reduced motion provides a position control.

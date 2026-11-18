@@ -1,0 +1,14 @@
+TITLE
+The Chalk Yard
+
+PROMPT
+Make a mint #bbdbd4 loading yard where thick chalk blocks travel on an overhead rail. Draw hard #43695c slab edges and dusty repeating scratches; let the stack balance on its overlap. A large drop key cuts away the unsupported end and sends the offcut tumbling out of sight. Show the height in courses and a compact quarry operator's instruction. Provide a still, manually adjustable carriage under reduced motion.
+
+DESCRIPTION
+A small masonry game asks the visitor to stack traveling chalk slabs with increasingly exact timing.
+
+VISUAL TECHNIQUES
+DOM geometry, clipped overlaps, easing fall animation, chalk scratches.
+
+INTERACTION MODEL
+Drop the moving slab while it overlaps the stack. A manual position slider is also available. Restart after a miss or seven courses.

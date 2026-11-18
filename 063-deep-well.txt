@@ -1,0 +1,14 @@
+TITLE
+Sounding No. 9
+
+PROMPT
+Look straight down a deep masonry well as concentric elliptical brick courses dissolve into #282e36 darkness. Catch just the edges with #c3b88d chalk. Center a tiny gold stone above the hole. A drop control sends it shrinking into the distance and only then lets a thin ripple return. Set the title as narrow vertical station lettering; report the simulated depth as a modest instrument reading. Include a still-motion response.
+
+DESCRIPTION
+A stone disappears down an impossible shaft and its arrival comes back as a ring.
+
+VISUAL TECHNIQUES
+Perspective brick courses, depth scaling, delayed ripple.
+
+INTERACTION MODEL
+Drop the stone and wait for the sounding report.

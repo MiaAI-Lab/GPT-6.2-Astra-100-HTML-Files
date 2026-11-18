@@ -1,0 +1,14 @@
+TITLE
+Six Steps into Blue
+
+PROMPT
+Design a midnight music box in #182549 with peach #e9ab77 brass teeth. Lay six tall rounded-ended metal tongues in a descending stair against a ruled darkness. Set the title as a small elegant serif invitation above the instrument. Each tooth has a note name and an individual pitch. The visitor can enable audio and play a complete descending nocturne or strike individual teeth; a struck tine flexes, warms and settles.
+
+DESCRIPTION
+A pocket lamellophone turns the end of the day into a short descending tune.
+
+VISUAL TECHNIQUES
+Metallic linear highlights, tuned oscillator envelopes, alternating tine lengths.
+
+INTERACTION MODEL
+Enable sound and strike the keys individually or start the six-note phrase.
